@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidRentSystem</string>
+    <string name="login_btn">Login</string>
+    <string name="psw_field">Password</string>
+    <string name="username_field">Username</string>
+    <string name="login_page_header">Rent System</string>
+    <string name="chk_box">Are you a rent provider?</string>
+    <string name="gymName">Gym name</string>
+    <string name="gymAddress">Gym address</string>
+    <string name="gymPrice">Gym hourly price ($)</string>
+    <string name="gymType">Gym type</string>
+    <string name="edit">Save edit</string>
+    <string name="delete">Delete</string>
+
+
+</resources>
